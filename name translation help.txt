@@ -26,14 +26,16 @@ suggestions -
 this translation kind of works, might keep it like that.
 
 names needed--------------------------------------------------------------
-Urbworld - 
-Medival - 
+Urbworld - עירולם
+it's a mix of city/urben + world
+Medival - עולם מידיוולי
 לכתוב ימי הביניים על כל דבר מאוד ארוך. בנוסף, צורת פועל בעייתית, ימי ביניימי?
-Glitterworld - עולם מנצנץ?
+Glitterworld - עולמכונה
+יותר יכיין מכונה מאשר נצנצים 
 intellectual - ידע?
 barracks - בסיס?
 scyther - נושא חרמש?
-chemfuel - 
+chemfuel - דלק כימיקלי
 suggestions -
 not a clue on how to approach this, דלק כימי? דלכימי לא נשמע טוב
 smokeleaf -
